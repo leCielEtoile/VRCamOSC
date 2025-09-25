@@ -1,0 +1,13 @@
+# VRChat Camera OSC - 必要ライブラリ
+
+# OSC通信
+python-osc==1.9.3
+
+# キーボード入力処理
+pynput==1.8.1
+
+# クリップボード制御
+pyperclip==1.9.0
+
+# インストール方法:
+# pip install -r requirements.txt
